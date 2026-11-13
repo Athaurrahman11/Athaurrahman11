@@ -98,7 +98,7 @@ I'm an aspiring **AI Engineer** and **Software Developer** with a strong interes
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/athaurrahman2782" target="_blank">
+  <a href="https://www.linkedin.com/in/athaurrahman1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/1Zt9bbhGzZ/?mibextid=wwXIfr" target="_blank">
